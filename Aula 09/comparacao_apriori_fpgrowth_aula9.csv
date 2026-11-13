@@ -1,0 +1,3 @@
+Algoritmo,Quantidade_itemsets,Quantidade_regras
+Apriori,193,82
+FP-growth,193,82

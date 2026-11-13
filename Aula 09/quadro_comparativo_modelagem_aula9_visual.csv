@@ -1,0 +1,5 @@
+Abordagem,Pergunta_típica,Tipo_de_aprendizado,Exemplo_industrial
+Associação,Quais eventos tendem a ocorrer juntos?,Não supervisionado,Combinação frequente de falhas e condições operacionais
+Classificação,Em qual classe este registro se encaixa?,Supervisionado,Prever status de falha
+Regressão,Qual valor contínuo queremos estimar?,Supervisionado,"Prever vazão, temperatura ou consumo"
+Agrupamento,Quais grupos semelhantes existem na base?,Não supervisionado,Identificar perfis operacionais

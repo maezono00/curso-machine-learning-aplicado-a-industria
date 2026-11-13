@@ -1,0 +1,83 @@
+antecedents,consequents,support,confidence,lift
+"frozenset({'alta_temperatura', 'valvula_desregulada'})",frozenset({'erro_vazao_alto'}),0.08846153846153847,0.696969696969697,3.0202020202020203
+"frozenset({'valvula_desregulada', 'alta_pressao'})",frozenset({'erro_vazao_alto'}),0.09230769230769231,0.6486486486486487,2.810810810810811
+"frozenset({'leituras_invalidas_altas', 'alta_vibracao'})",frozenset({'tempo_resposta_lento'}),0.08846153846153847,0.7419354838709677,2.606800348735833
+"frozenset({'alta_pressao', 'erro_vazao_alto'})",frozenset({'valvula_desregulada'}),0.09230769230769231,0.7058823529411765,2.584921292460647
+"frozenset({'bomba_desgastada', 'tempo_resposta_lento'})",frozenset({'alta_vibracao'}),0.1,0.9629629629629629,2.5547996976568403
+"frozenset({'bomba_desgastada', 'produto_Base'})",frozenset({'alta_vibracao'}),0.08846153846153847,0.9583333333333334,2.542517006802721
+"frozenset({'leituras_invalidas_altas', 'alta_pressao'})",frozenset({'tempo_resposta_lento'}),0.09230769230769231,0.7058823529411765,2.4801271860095393
+"frozenset({'alta_pressao', 'tempo_resposta_lento'})",frozenset({'leituras_invalidas_altas'}),0.09230769230769231,0.6153846153846154,2.4615384615384617
+"frozenset({'alta_pressao', 'alta_vibracao'})",frozenset({'bomba_desgastada'}),0.11538461538461539,0.6521739130434783,2.4574669187145557
+"frozenset({'consumo_energia_alto', 'alta_vibracao'})",frozenset({'bomba_desgastada'}),0.1423076923076923,0.6491228070175439,2.4459699974574116
+frozenset({'erro_vazao_alto'}),frozenset({'valvula_desregulada'}),0.15384615384615385,0.6666666666666666,2.4413145539906105
+"frozenset({'consumo_energia_alto', 'tempo_resposta_lento'})",frozenset({'leituras_invalidas_altas'}),0.08076923076923077,0.6000000000000001,2.4000000000000004
+"frozenset({'linha_Linha_A', 'alta_vibracao'})",frozenset({'bomba_desgastada'}),0.08076923076923077,0.6176470588235294,2.327365728900256
+"frozenset({'alta_temperatura', 'erro_vazao_alto'})",frozenset({'valvula_desregulada'}),0.08846153846153847,0.6216216216216217,2.276360867910164
+frozenset({'leituras_invalidas_altas'}),frozenset({'tempo_resposta_lento'}),0.1576923076923077,0.6307692307692307,2.2162162162162162
+"frozenset({'bomba_desgastada', 'linha_Linha_B'})",frozenset({'alta_vibracao'}),0.08846153846153847,0.8214285714285714,2.1793002915451893
+"frozenset({'leituras_invalidas_altas', 'consumo_energia_alto'})",frozenset({'tempo_resposta_lento'}),0.08076923076923077,0.6176470588235294,2.170111287758347
+"frozenset({'alta_pressao', 'alta_vibracao'})",frozenset({'tempo_resposta_lento'}),0.1076923076923077,0.6086956521739131,2.138660399529965
+"frozenset({'bomba_desgastada', 'consumo_energia_alto'})",frozenset({'alta_vibracao'}),0.1423076923076923,0.8043478260869564,2.133984028393966
+"frozenset({'produto_Base', 'tempo_resposta_lento'})",frozenset({'alta_vibracao'}),0.09230769230769231,0.7741935483870968,2.053982883475971
+"frozenset({'consumo_energia_alto', 'tempo_resposta_lento'})",frozenset({'alta_vibracao'}),0.10384615384615385,0.7714285714285715,2.0466472303207
+"frozenset({'bomba_desgastada', 'alta_pressao'})",frozenset({'alta_vibracao'}),0.11538461538461539,0.7692307692307693,2.0408163265306123
+frozenset({'bomba_desgastada'}),frozenset({'alta_vibracao'}),0.20384615384615384,0.7681159420289855,2.0378586217095536
+"frozenset({'bomba_desgastada', 'alta_temperatura'})",frozenset({'alta_vibracao'}),0.09230769230769231,0.75,1.989795918367347
+"frozenset({'linha_Linha_A', 'bomba_desgastada'})",frozenset({'alta_vibracao'}),0.08076923076923077,0.75,1.989795918367347
+"frozenset({'alta_pressao', 'tempo_resposta_lento'})",frozenset({'alta_vibracao'}),0.1076923076923077,0.7179487179487181,1.904761904761905
+"frozenset({'alta_temperatura', 'tempo_resposta_lento'})",frozenset({'alta_vibracao'}),0.08461538461538462,0.6875,1.8239795918367347
+"frozenset({'linha_Linha_B', 'tempo_resposta_lento'})",frozenset({'alta_vibracao'}),0.08461538461538462,0.6666666666666667,1.7687074829931975
+"frozenset({'linha_Linha_B', 'consumo_energia_alto'})",frozenset({'alta_pressao'}),0.17307692307692307,0.7758620689655171,1.7241379310344824
+"frozenset({'linha_Linha_B', 'tempo_resposta_lento'})",frozenset({'alta_pressao'}),0.09615384615384616,0.7575757575757577,1.6835016835016836
+frozenset({'tempo_resposta_lento'}),frozenset({'alta_vibracao'}),0.17692307692307693,0.6216216216216217,1.6492002206287923
+"frozenset({'leituras_invalidas_altas', 'alta_pressao'})",frozenset({'linha_Linha_B'}),0.08846153846153847,0.6764705882352942,1.6437603078614624
+"frozenset({'leituras_invalidas_altas', 'consumo_energia_alto'})",frozenset({'alta_pressao'}),0.09615384615384616,0.7352941176470589,1.6339869281045751
+"frozenset({'alta_temperatura', 'consumo_energia_alto'})",frozenset({'alta_pressao'}),0.13076923076923078,0.723404255319149,1.607565011820331
+"frozenset({'consumo_energia_alto', 'turno_Noite'})",frozenset({'alta_vibracao'}),0.08846153846153847,0.6052631578947368,1.6058002148227712
+"frozenset({'linha_Linha_A', 'bomba_desgastada'})",frozenset({'consumo_energia_alto'}),0.08076923076923077,0.75,1.598360655737705
+"frozenset({'leituras_invalidas_altas', 'linha_Linha_B'})",frozenset({'alta_pressao'}),0.08846153846153847,0.71875,1.597222222222222
+"frozenset({'produto_Acido', 'turno_Manhã'})",frozenset({'alta_temperatura'}),0.09230769230769231,0.6857142857142858,1.5918367346938778
+"frozenset({'alta_pressao', 'turno_Noite'})",frozenset({'alta_vibracao'}),0.08076923076923077,0.6000000000000001,1.5918367346938778
+"frozenset({'consumo_energia_alto', 'tempo_resposta_lento'})",frozenset({'alta_pressao'}),0.09615384615384616,0.7142857142857144,1.5873015873015874
+"frozenset({'valvula_desregulada', 'linha_Linha_B'})",frozenset({'alta_pressao'}),0.08461538461538462,0.7096774193548387,1.5770609318996416
+"frozenset({'alta_pressao', 'turno_Manhã'})",frozenset({'linha_Linha_B'}),0.09230769230769231,0.6486486486486487,1.5761555948471837
+"frozenset({'produto_Acido', 'alta_pressao'})",frozenset({'linha_Linha_B'}),0.09230769230769231,0.6486486486486487,1.5761555948471837
+"frozenset({'alta_pressao', 'erro_vazao_alto'})",frozenset({'alta_temperatura'}),0.08846153846153847,0.6764705882352942,1.5703781512605042
+"frozenset({'produto_Acido', 'linha_Linha_B'})",frozenset({'alta_pressao'}),0.09230769230769231,0.7058823529411765,1.5686274509803921
+"frozenset({'produto_Acido', 'alta_pressao'})",frozenset({'alta_temperatura'}),0.09615384615384616,0.6756756756756758,1.5685328185328187
+"frozenset({'leituras_invalidas_altas', 'alta_pressao'})",frozenset({'consumo_energia_alto'}),0.09615384615384616,0.7352941176470589,1.5670202507232402
+"frozenset({'turno_Tarde', 'consumo_energia_alto'})",frozenset({'alta_pressao'}),0.11923076923076924,0.7045454545454546,1.5656565656565657
+"frozenset({'alta_pressao', 'tempo_resposta_lento'})",frozenset({'linha_Linha_B'}),0.09615384615384616,0.6410256410256411,1.5576323987538943
+"frozenset({'produto_Solvente', 'consumo_energia_alto'})",frozenset({'alta_pressao'}),0.11153846153846154,0.6904761904761905,1.5343915343915344
+"frozenset({'produto_Acido', 'consumo_energia_alto'})",frozenset({'alta_pressao'}),0.09230769230769231,0.6857142857142858,1.523809523809524
+"frozenset({'linha_Linha_B', 'turno_Tarde'})",frozenset({'alta_pressao'}),0.09230769230769231,0.6857142857142858,1.523809523809524
+"frozenset({'produto_Acido', 'alta_vibracao'})",frozenset({'alta_temperatura'}),0.08076923076923077,0.65625,1.5234375
+"frozenset({'bomba_desgastada', 'alta_vibracao'})",frozenset({'consumo_energia_alto'}),0.1423076923076923,0.6981132075471698,1.487782245592329
+"frozenset({'alta_pressao', 'produto_Solvente'})",frozenset({'consumo_energia_alto'}),0.11153846153846154,0.6904761904761905,1.4715066354410617
+"frozenset({'alta_pressao', 'turno_Tarde'})",frozenset({'consumo_energia_alto'}),0.11923076923076924,0.688888888888889,1.4681238615664847
+frozenset({'produto_Acido'}),frozenset({'alta_temperatura'}),0.2153846153846154,0.6292134831460674,1.4606741573033706
+"frozenset({'produto_Acido', 'consumo_energia_alto'})",frozenset({'alta_temperatura'}),0.08461538461538462,0.6285714285714287,1.459183673469388
+"frozenset({'bomba_desgastada', 'alta_temperatura'})",frozenset({'alta_pressao'}),0.08076923076923077,0.65625,1.4583333333333333
+"frozenset({'produto_Solvente', 'linha_Linha_B'})",frozenset({'alta_pressao'}),0.08461538461538462,0.6470588235294118,1.4379084967320261
+"frozenset({'produto_Acido', 'linha_Linha_B'})",frozenset({'alta_temperatura'}),0.08076923076923077,0.6176470588235294,1.4338235294117647
+frozenset({'erro_vazao_alto'}),frozenset({'alta_temperatura'}),0.1423076923076923,0.6166666666666666,1.4315476190476188
+frozenset({'bomba_desgastada'}),frozenset({'consumo_energia_alto'}),0.17692307692307693,0.6666666666666667,1.4207650273224046
+"frozenset({'alta_temperatura', 'alta_pressao'})",frozenset({'consumo_energia_alto'}),0.13076923076923078,0.6666666666666667,1.4207650273224046
+frozenset({'linha_Linha_B'}),frozenset({'alta_pressao'}),0.26153846153846155,0.6355140186915889,1.4122533748701975
+"frozenset({'alta_pressao', 'linha_Linha_B'})",frozenset({'consumo_energia_alto'}),0.17307692307692307,0.6617647058823529,1.4103182256509161
+frozenset({'alta_pressao'}),frozenset({'consumo_energia_alto'}),0.29615384615384616,0.6581196581196581,1.4025500910746813
+frozenset({'consumo_energia_alto'}),frozenset({'alta_pressao'}),0.29615384615384616,0.6311475409836066,1.4025500910746813
+"frozenset({'alta_temperatura', 'linha_Linha_B'})",frozenset({'alta_pressao'}),0.11153846153846154,0.6304347826086957,1.4009661835748792
+"frozenset({'alta_pressao', 'turno_Noite'})",frozenset({'consumo_energia_alto'}),0.08846153846153847,0.6571428571428573,1.4004683840749417
+"frozenset({'alta_pressao', 'alta_vibracao'})",frozenset({'consumo_energia_alto'}),0.11538461538461539,0.6521739130434783,1.389878831076265
+"frozenset({'produto_Acido', 'alta_pressao'})",frozenset({'consumo_energia_alto'}),0.09230769230769231,0.6486486486486487,1.3823659725299071
+"frozenset({'alta_temperatura', 'erro_vazao_alto'})",frozenset({'alta_pressao'}),0.08846153846153847,0.6216216216216217,1.3813813813813816
+"frozenset({'linha_Linha_A', 'alta_vibracao'})",frozenset({'consumo_energia_alto'}),0.08461538461538462,0.6470588235294118,1.3789778206364514
+"frozenset({'alta_pressao', 'tempo_resposta_lento'})",frozenset({'consumo_energia_alto'}),0.09615384615384616,0.6410256410256411,1.3661202185792352
+"frozenset({'bomba_desgastada', 'alta_pressao'})",frozenset({'consumo_energia_alto'}),0.09615384615384616,0.6410256410256411,1.3661202185792352
+"frozenset({'linha_Linha_B', 'alta_vibracao'})",frozenset({'alta_pressao'}),0.10384615384615385,0.6136363636363636,1.3636363636363635
+"frozenset({'alta_vibracao', 'tempo_resposta_lento'})",frozenset({'alta_pressao'}),0.1076923076923077,0.6086956521739131,1.3526570048309179
+"frozenset({'alta_pressao', 'produto_Base'})",frozenset({'consumo_energia_alto'}),0.09230769230769231,0.631578947368421,1.345987920621225
+"frozenset({'consumo_energia_alto', 'turno_Noite'})",frozenset({'alta_pressao'}),0.08846153846153847,0.6052631578947368,1.345029239766082
+"frozenset({'valvula_desregulada', 'erro_vazao_alto'})",frozenset({'alta_pressao'}),0.09230769230769231,0.6,1.3333333333333333
+"frozenset({'alta_pressao', 'turno_Manhã'})",frozenset({'consumo_energia_alto'}),0.08846153846153847,0.6216216216216217,1.324767390341161
