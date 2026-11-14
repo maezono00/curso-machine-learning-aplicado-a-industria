@@ -1,0 +1,3 @@
+Modelo,Falsos Positivos,Falsos Negativos,Custo estimado (R$)
+Regressão Logística,1,7,85500
+Árvore de Decisão,8,15,192000

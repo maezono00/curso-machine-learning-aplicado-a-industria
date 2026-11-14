@@ -1,0 +1,3 @@
+Modelo,Acurácia,Precisão,Recall,F1-score,AUC
+Regressão Logística,0.9158,0.8889,0.5333,0.6667,0.9092
+Árvore de Decisão,0.7579,0.0,0.0,0.0,0.5254

@@ -1,0 +1,6 @@
+Critério,Análise do aluno
+Desempenho geral,Acurácia e AUC
+Capacidade de detectar falhas críticas,Recall
+Controle de alarmes indevidos,Precisão
+Custo estimado dos erros,FP e FN convertidos em custo
+Recomendação preliminar,Interpretação técnica integrada
