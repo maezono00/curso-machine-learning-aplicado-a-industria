@@ -1,0 +1,3 @@
+Modelo,MAE,MSE,RMSE,R2
+Regressão Linear,4.8711,38.0696,6.1701,0.7284
+Árvore de Decisão,7.5279,79.0082,8.8887,0.4362
