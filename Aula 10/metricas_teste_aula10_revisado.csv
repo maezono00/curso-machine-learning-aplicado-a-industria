@@ -1,0 +1,4 @@
+Modelo,MAE_teste,RMSE_teste,R2_teste
+Linear,3.5789,4.3775,0.897
+Árvore Complexa,6.4211,7.9619,0.6593
+Árvore Controlada,6.2677,7.9279,0.6622

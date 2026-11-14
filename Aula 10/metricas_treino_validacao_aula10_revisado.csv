@@ -1,0 +1,7 @@
+Modelo,Conjunto,MAE,RMSE,R2
+Linear,Treino,3.7081,4.8101,0.8731
+Linear,Validação,3.4981,4.4844,0.9008
+Árvore Complexa,Treino,0.0,0.0,1.0
+Árvore Complexa,Validação,7.6287,10.0856,0.4981
+Árvore Controlada,Treino,4.7891,6.0312,0.8005
+Árvore Controlada,Validação,7.0556,9.2465,0.5782
